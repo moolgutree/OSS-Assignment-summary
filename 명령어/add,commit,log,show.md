@@ -3,6 +3,7 @@
 > add : 워킹 디렉터리의 파일을 스테이지 영역으로 등록
 > > $ git add <파일이름>
 > > add 명령어
+```
     -n, --dry-run         dry run
     -v, --verbose         be verbose
 
@@ -23,12 +24,13 @@
     --pathspec-from-file <file>
                           read pathspec from file
     --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
-
+```
 
 2. commit
 > commit : HEAD가 가리키는 커밋의 스테이지 영역을 스냅샷 방식으로 저장
 > > $ git commit
 > > commit 명령어
+```
 usage: git commit [<options>] [--] <pathspec>...
 
     -q, --quiet           suppress summary after successful commit
@@ -79,7 +81,44 @@ usage: git commit [<options>] [--] <pathspec>...
     --pathspec-from-file <file>
                           read pathspec from file
     --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
-
+```
 
 3. log
-> log : 
+> log : 커밋 후 커밋 목록 
+> > $ git log
+> > log 명령어
+```
+usage: git log [<options>] [<revision-range>] [[--] <path>...]
+   or: git show [<options>] <object>...
+
+    -q, --quiet           suppress diff output
+    --source              show source
+    --use-mailmap         use mail map file
+    --mailmap             alias of --use-mailmap
+    --decorate-refs <pattern>
+                          only decorate refs that match <pattern>
+    --decorate-refs-exclude <pattern>
+                          do not decorate refs that match <pattern>
+    --decorate[=...]      decorate options
+    -L <range:file>       trace the evolution of line range <start>,<end> or function :<funcname> in <file>
+```
+4. show
+> show : commit id의 정보, 수정 내용을 보여줌
+> > $ git show <commit id>
+> > show 명령어
+```
+usage: git log [<options>] [<revision-range>] [[--] <path>...]
+   or: git show [<options>] <object>...
+
+    -q, --quiet           suppress diff output
+    --source              show source
+    --use-mailmap         use mail map file
+    --mailmap             alias of --use-mailmap
+    --decorate-refs <pattern>
+                          only decorate refs that match <pattern>
+    --decorate-refs-exclude <pattern>
+                          do not decorate refs that match <pattern>
+    --decorate[=...]      decorate options
+    -L <range:file>       trace the evolution of line range <start>,<end> or function :<funcname> in <file>
+```
+
