@@ -1,4 +1,4 @@
-1. colne
+1. ***colne***
 > clone : 기존 저장소를 이용하여 새로운 저장소를 생성
 > > $ git clone <복제할 저장소>
 > > clone 
@@ -53,7 +53,7 @@ usage: git clone [<options>] [--] <repo> [<dir>]
     --remote-submodules   any cloned submodules will use their remote-tracking branch
     --sparse              initialize sparse-checkout file to include only files at root
 ```
-2. push
+2. ***push***
 > push : 원격 저장소로 커밋된 파일들을 업로드
 > > $ git push <원격저장소별칭> <브랜치이름>
 > > push 명령어
@@ -94,7 +94,7 @@ usage: git push [<options>] [<repository> [<refspec>...]]
     -6, --ipv6            use IPv6 addresses only
 ```
 
-3. pull
+3. ***pull***
 > 원격 저장소의 갱신된 내용을 추가로 받기
 > > $ git pull
 > > pull 명령어
@@ -161,11 +161,11 @@ Options related to fetching
                           check for forced-updates on all updated branches
     --set-upstream        set upstream for git pull/fetch
 ```
-4-1. fetch
+4-1. ***fetch***
 > fetch : 원격 저장소에서 코드를 수동으로 내려받는 작업
 > > $ git fetch <원격저장소URL>
 > > fetch 명령어
-````
+```
 usage: git fetch [<options>] [<repository> [<refspec>...]]
    or: git fetch [<options>] <group>
    or: git fetch --multiple [<options>] [(<repository> | <group>)...]
@@ -218,7 +218,8 @@ usage: git fetch [<options>] [<repository> [<refspec>...]]
     --write-commit-graph  write the commit-graph after fetching
     --stdin               accept refspecs from stdin
 ```
-4-2. merge
+
+4-2. ***merge***
 > merge : 수동 병합
 > > $ git merge <원격저장소별칭/브랜치이름>
 > > merge 명령어
