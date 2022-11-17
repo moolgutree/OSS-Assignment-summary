@@ -1,0 +1,2 @@
+## 버그(bug), 문서화(documentation), 복사(duplicate), 강화(enhancement), 좋은 첫 번째 이슈(good first issue)
+## , 도움 구함(help wanted), 효력 없음(invalid), 질문(question), 고쳐지지 않음(wontfix) 등의 보기 쉬운 레이블을 이슈에 넣어 무엇이 문제인지 편하게 볼 수 있어서 많이 쓸 내용인 것 같다.
