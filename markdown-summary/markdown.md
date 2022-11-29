@@ -9,9 +9,9 @@
 [변수]: URL "보여줄 것"
 
 * 외부링크
-```
+
 사용문법: [링크 가는 곳](링크, "보여줄 것")
-```
+
 Link: [Google](https://google.com, "google link")
 ```
 ## 1.2. 강조
