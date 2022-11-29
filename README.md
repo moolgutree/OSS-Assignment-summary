@@ -16,7 +16,7 @@
 
 ## 명령어
 
-* [1. add,commit,log,show](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/1.%20add%2Ccommit%2Clog%2Cshow.md(1. add,commit,log,show)) 
-* [2. clone, push, pull, fetch\merge](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/2.%20clone%2C%20push%2C%20pull%2C%20fetch%5Cmerge.md(2. clone, push, pull, fetch\merge)) 
-* [3. branch, checkout, switch](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/3.%20branch%2C%20checkout%2C%20switch.md(3. branch, checkout, switch)) 
-* [5. reset revert](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/5.%20reset%20revert.md(5. reset revert)) 
+* [1. add,commit,log,show](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/1.%20add%2Ccommit%2Clog%2Cshow.md (1. add,commit,log,show)) 
+* [2. clone, push, pull, fetch\merge](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/2.%20clone%2C%20push%2C%20pull%2C%20fetch%5Cmerge.md (2. clone, push, pull, fetch\merge)) 
+* [3. branch, checkout, switch](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/3.%20branch%2C%20checkout%2C%20switch.md (3. branch, checkout, switch)) 
+* [5. reset revert](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/%EB%AA%85%EB%A0%B9%EC%96%B4/5.%20reset%20revert.md (5. reset revert)) 
