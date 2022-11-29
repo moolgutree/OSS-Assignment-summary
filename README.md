@@ -23,4 +23,4 @@
 
 ## 치트 시트
 * [git cheat sheet](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/cheat_sheet/git.md (git cheat sheet))
-* [github cheat sheet}(https://github.com/moolgutree/OSS-Assignment-summary/blob/main/cheat_sheet/github.md (github cheat sheet))
+* [github cheat sheet](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/cheat_sheet/github.md (github cheat sheet))
