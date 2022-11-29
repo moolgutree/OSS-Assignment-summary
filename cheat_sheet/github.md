@@ -11,7 +11,8 @@ fork한 repository를 수정작업하고 수정된 내용을 원본 repository�
 ```
 ## milestone
 ```
-진행상황을 관리
+목표를 설정하는 것
+진행상황을 관리하는 것
 ```
 ## wiki
 ```
