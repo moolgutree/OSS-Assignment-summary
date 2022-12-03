@@ -23,4 +23,5 @@
 
 ## 치트 시트
 * [git cheat sheet](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/cheat_sheet/git.md (git cheat sheet))
+* [git cheat sheet ppt](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmoolgutree%2FOSS-Assignment-summary%2Fmain%2Fcheat_sheet%2Fgit%2520cheat%2520sheet.pptx&wdOrigin=BROWSELINK (git cheat sheet ppt))
 * [github cheat sheet](https://github.com/moolgutree/OSS-Assignment-summary/blob/main/cheat_sheet/github.md (github cheat sheet))
